@@ -1,4 +1,4 @@
 # my-new-project
 Building AI course project
-##Summary
+## Summary
 coming soon
